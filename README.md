@@ -1,4 +1,5 @@
 # DarkOverlay
+Find this on [DeviantArt](https://www.deviantart.com/tashilapathum/art/1194352913)
 
 ![Screenshot (162)](https://github.com/user-attachments/assets/5abeb226-99c9-4b97-89a5-86d4da245ae9)
 
@@ -6,12 +7,13 @@ This simple Rainmeter skin just adds a dark overlay on top of the wallpaper. It 
 
 ## Installation
 
-Here's how to install Rainmeter skins: [Rainmeter Skin Installation Guide](https://docs.rainmeter.net/manual/installing-skins/#InstallAutomatically)
+[Rainmeter Skin Installation Guide](https://docs.rainmeter.net/manual/installing-skins/#InstallAutomatically)
 
-After the skin is installed and loaded, do the following:
+Download the `.rmskin` file from the releases.
+After the skin is installed and loaded, do the following from skin settings:
 
 1. Set position to **On desktop**
-2. Go to skin settings and enable **Click through**
+2. Enable **Click through**
 
 ## Customization
 
